@@ -1,4 +1,4 @@
-# 3DModels
+# 3D Models
 Various 3D Models I created in Fusion360.
 
 ## PS4 Controller
